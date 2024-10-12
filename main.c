@@ -1,6 +1,6 @@
 #include "cab/index.h"
 #include "cab/verificadores.h"
-#include "cab/desenhar.h"
+#include "cab/desenhar.h" 
 
 pecas peca[32]; // 16 peças brancas + 16 peças pretas = 32
 pecas* peca_selecionada = NULL; // Para armazenar a peça selecionada
