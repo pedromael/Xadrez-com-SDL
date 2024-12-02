@@ -23,7 +23,7 @@ Certifique-se de ter os seguintes softwares instalados no seu sistema:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/pedromael/seu-projeto-xadrez.git
+   git clone https://github.com/pedromael/Xadrez-com-SDL.git
 
 2. Instale as dependências da SDL (se necessário):
 
